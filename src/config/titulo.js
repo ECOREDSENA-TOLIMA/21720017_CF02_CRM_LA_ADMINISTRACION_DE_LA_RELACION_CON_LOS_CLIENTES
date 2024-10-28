@@ -1,1 +1,1 @@
-module.exports = 'NOMBRE_DEL_COMPONENTE_FORMATIVO'
+module.exports = 'CRM en las ventas y en el servicio al cliente'

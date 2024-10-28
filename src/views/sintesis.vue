@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") A_continuación_se_muestra_un_mapa_conceptual
+    p.mb-5(data-aos="fade-right") El componente formativo presenta los CRM junto con su historia y las fases para su óptima aplicación. Los conceptos fundamentales que se presentan en este componente son los siguientes: 
 
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
