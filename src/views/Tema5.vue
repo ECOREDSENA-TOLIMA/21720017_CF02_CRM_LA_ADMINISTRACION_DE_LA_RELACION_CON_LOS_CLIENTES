@@ -53,21 +53,21 @@
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_5_2 5.2 Selección de software y herramientas tecnológicas
+      h2#t_5_2 5.2 Selección de #[i software] y herramientas tecnológicas
 
     .row.fondo3-t3.justify-content-center.align-items-center.py-3.px-lg-5.px-4(data-aos="zoom-in") 
       .row.justify-content-center.align-items-center
-        p.mb-5(data-aos="fade-right") Una vez que se han definido los objetivos y necesidades, el siguiente paso es la selección del software CRM y las herramientas tecnológicas. Existen múltiples opciones en el mercado, desde sistemas CRM básicos hasta soluciones altamente personalizables. Elegir el software adecuado requiere una evaluación cuidadosa de las características del sistema, la facilidad de uso y la compatibilidad con la infraestructura tecnológica de la empresa.
-        .col-10.mb-4
+        p.mb-5(data-aos="fade-right") Una vez que se han definido los objetivos y necesidades, el siguiente paso es la selección del #[i software] CRM y las herramientas tecnológicas. Existen múltiples opciones en el mercado, desde sistemas CRM básicos hasta soluciones altamente personalizables. Elegir el #[i software] adecuado requiere una evaluación cuidadosa de las características del sistema, la facilidad de uso y la compatibilidad con la infraestructura tecnológica de la empresa.
+        .col-lg-10.mb-4
           .tarjeta-avatar-b(data-aos="flip-up")
             .tarjeta-avatar-b__img(style="max-width: 600px")
               img(src='@/assets/curso/temas/tema5/icono-01.svg' alt='AvatarTop')
             .tarjeta.tarjeta1
               .p-4
-                h4 Evaluación de opciones de software CRM
+                h4 Evaluación de opciones de #[i software] CRM
                 p Es fundamental comparar diferentes proveedores de CRM, evaluando no solo sus características principales, sino también su capacidad de personalización, la facilidad de integración con otros sistemas, y la flexibilidad para adaptarse al crecimiento futuro de la empresa. Algunas opciones populares de CRM incluyen Salesforce, HubSpot, Zoho CRM, y Microsoft Dynamics. Cada uno de estos sistemas ofrece diferentes niveles de automatización, análisis y personalización.
 
-        .col-10.mb-4
+        .col-lg-10.mb-4
           .tarjeta-avatar-b(data-aos="flip-up")
             .tarjeta-avatar-b__img(style="max-width: 600px")
               img(src='@/assets/curso/temas/tema5/icono-02.svg' alt='AvatarTop')
@@ -76,7 +76,7 @@
                 h4 Consideraciones tecnológicas
                 p Al elegir un CRM, también es importante considerar las necesidades tecnológicas, como la capacidad de integración con los sistemas ya existentes, el soporte para múltiples dispositivos, y si la empresa prefiere un CRM basado en la nube o uno local. Los CRM basados en la nube suelen ser más flexibles, fáciles de implementar y de mantener, ya que el proveedor gestiona la infraestructura y las actualizaciones.
 
-        .col-10.mb-4
+        .col-lg-10.mb-4
           .tarjeta-avatar-b(data-aos="flip-up")
             .tarjeta-avatar-b__img(style="max-width: 600px")
               img(src='@/assets/curso/temas/tema5/icono-03.svg' alt='AvatarTop')
@@ -85,14 +85,14 @@
                 h4 Costos y escalabilidad
                 p Otro factor clave en la selección de un CRM es el costo de implementación y mantenimiento, así como la escalabilidad del sistema. Es importante asegurarse de que el CRM sea accesible desde el punto de vista financiero, tanto en términos de costo inicial como de tarifas de suscripción y actualizaciones. Además, debe poder crecer junto con la empresa, añadiendo nuevas funciones o integraciones a medida que sea necesario.
 
-        .col-10.mb-4
+        .col-lg-10.mb-4
           .tarjeta-avatar-b(data-aos="flip-up")
             .tarjeta-avatar-b__img(style="max-width: 600px")
               img(src='@/assets/curso/temas/tema5/icono-04.svg' alt='AvatarTop')
             .tarjeta.tarjeta1
               .p-4
                 h4 Compatibilidad con la cultura organizacional
-                p Finalmente, el software CRM debe ser fácil de usar y adaptable a la cultura organizacional de la empresa. Si el sistema es demasiado complicado o no está alineado con la forma en que el equipo trabaja, es probable que enfrente resistencia, lo que afectará la adopción y efectividad del CRM.
+                p Finalmente, el #[i software] CRM debe ser fácil de usar y adaptable a la cultura organizacional de la empresa. Si el sistema es demasiado complicado o no está alineado con la forma en que el equipo trabaja, es probable que enfrente resistencia, lo que afectará la adopción y efectividad del CRM.
 
     Separador
 
@@ -146,7 +146,7 @@
           .col-lg-7
             p.mb-0 El CRM debe contribuir a mejorar la productividad de los equipos de ventas, #[i marketing] y servicio al cliente. Es importante evaluar si el CRM ha facilitado la automatización de tareas, ha mejorado la colaboración entre equipos y ha permitido una toma de decisiones más informada gracias al análisis de datos. Si se detectan áreas donde el CRM no está cumpliendo con las expectativas, es posible realizar ajustes en los procesos o en la forma en que se está utilizando la herramienta.
 
-      .p-4(titulo="Feedback de los empleados")
+      .p-4(titulo="<em>Feedback</em> de los empleados")
         .row.justify-content-center
           .col-lg-5.col-10.mb-lg-0.mb-4
             img.img-t.m-auto(src='@/assets/curso/temas/tema5/img-08.png', alt='Texto que describa la imagen')

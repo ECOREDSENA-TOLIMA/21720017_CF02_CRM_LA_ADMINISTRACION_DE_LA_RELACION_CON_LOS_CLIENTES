@@ -93,34 +93,31 @@
     Separador
 
     .titulo-segundo.color-acento-contenido
-      h2#t_4_4 4.4 Caso práctico: Uso del CRM para mejorar la atención al cliente en una empresa colombianae
+      h2#t_4_4 4.4 Caso práctico: Uso del CRM para mejorar la atención al cliente en una empresa colombiana
 
     p.mb-5(data-aos="fade-down-right") Un caso destacado de implementación de CRM para mejorar el servicio al cliente en Colombia es el de la principal aerolínea del país. La empresa enfrentaba grandes desafíos en la gestión de sus clientes, especialmente debido al alto volumen de interacciones diarias que recibía a través de sus diversos canales de atención, incluyendo #[i call centers,] redes sociales y oficinas físicas.
 
-    LineaTiempoE.color-acento-contenido.mb-5
-      .row(titulo="Desafíos iniciales" subtitulo="")
-        .col-lg-5.mb-4.mb-lg-0(data-aos="fade-left")
+    LineaTiempoE.color-acento-contenido.mb-5.px-md-5.px-4
+      .row.justify-content-center.align-items-center(titulo="Desafíos iniciales" subtitulo="")
+        .col-lg-6.order-lg-1.order-2(data-aos="fade-left")
           p La aerolínea se encontraba ante la dificultad de proporcionar un servicio al cliente coherente y eficiente a través de múltiples puntos de contacto. Los tiempos de espera eran largos y los agentes a menudo no tenían acceso a toda la información relevante sobre el cliente, lo que generaba frustración y una experiencia inconsistente.
 
+        .col-lg-6.col-10.order-lg-2.order-lg-1.mb-lg-0.mb-4(data-aos="fade-right")
+          img(src='@/assets/curso/temas/tema4/img-011.png', alt='Texto que describa la imagen')
+
+      .row.justify-content-center.align-items-center(titulo="Solución" subtitulo="")
+        .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema4/img-012.png', alt='Texto que describa la imagen')
+
         .col-lg-6(data-aos="fade-right")
-          figure
-            img(src='@/assets/curso/temas/tema4/img-011.png', alt='Texto que describa la imagen')
-
-      .row(titulo="Solución" subtitulo="")
-        .col-lg-5(data-aos="fade-left")
-          figure
-            img(src='@/assets/curso/temas/tema4/img-012.png', alt='Texto que describa la imagen')
-
-        .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
           p La aerolínea decidió implementar un sistema CRM que centralizó toda la información del cliente en una sola plataforma accesible para todos los agentes de atención al cliente, independientemente del canal utilizado por el cliente. El CRM también automatizó el seguimiento de solicitudes, lo que permitió a los agentes realizar un seguimiento proactivo de cada caso, asegurando que los problemas se resolvieran de manera oportuna.
 
-      .row(titulo="Resultados" subtitulo="")
-        .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
+      .row.justify-content-center.align-items-center(titulo="Resultados" subtitulo="")
+        .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
           p Después de la implementación del CRM, la aerolínea experimentó mejoras significativas en la calidad de su servicio al cliente. Los tiempos de respuesta se redujeron considerablemente, y los agentes pudieron ofrecer soluciones personalizadas basadas en el historial completo de cada cliente. Además, la integración de múltiples canales en la misma plataforma de CRM permitió que los clientes recibieran una atención coherente, sin importar si contactaban a la aerolínea a través de redes sociales, teléfono o correo electrónico. La satisfacción del cliente aumentó, y la empresa pudo identificar más fácilmente los problemas recurrentes, ajustando sus procesos internos para prevenirlos.
 
-        .col-lg-5(data-aos="fade-left")
-          figure
-            img(src='@/assets/curso/temas/tema4/img-013.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-10.order-lg-2.order-lg-1.mb-lg-0.mb-4(data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema4/img-013.png', alt='Texto que describa la imagen')
 
     .fondo2-t2.mb-5.px-md-5.px-4.py-4
       .row.justify-content-center.align-items-center

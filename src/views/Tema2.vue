@@ -73,36 +73,32 @@
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--seccion")(data-aos="fade-down-right")
       .row(titulo="Acceso rápido a información del cliente")
-        .col-md-6.mb-4.mb-md-0
+        .col-lg-6.order-lg-1.order-2
           p El CRM centraliza todos los datos relevantes de los clientes, incluyendo su historial de compras, interacciones anteriores, preferencias y detalles de contacto. Esto permite a los vendedores estar mejor informados durante las reuniones con los clientes, lo que resulta en conversaciones más productivas y personalizadas.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema2/img-03.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+          img(src='@/assets/curso/temas/tema2/img-03.png', alt='Texto que describa la imagen')
 
       .row(titulo="Priorización de oportunidades")
-        .col-md-6.mb-4.mb-md-0
+        .col-lg-6.order-lg-1.order-2
           p El CRM permite identificar de manera rápida qué clientes potenciales tienen mayor probabilidad de convertirse en ventas. Esto se logra mediante herramientas de #[i scoring] (puntuación), que asignan valores a cada prospecto según criterios como nivel de interés, presupuesto, y adecuación del producto o servicio. Al priorizar las oportunidades más prometedoras, los equipos de ventas pueden aumentar su tasa de conversión.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema2/img-04.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+          img(src='@/assets/curso/temas/tema2/img-04.png', alt='Texto que describa la imagen')
 
       .row(titulo="Colaboración entre equipos")
-        .col-md-6.mb-4.mb-md-0
+        .col-lg-6.order-lg-1.order-2
           p El CRM facilita la colaboración entre equipos de ventas, #[i marketing] y servicio al cliente, ya que toda la información sobre las interacciones con los clientes está disponible en una plataforma compartida. Esto elimina la necesidad de correos electrónicos o llamadas innecesarias para obtener actualizaciones, lo que permite una mayor agilidad en las operaciones.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema2/img-05.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+          img(src='@/assets/curso/temas/tema2/img-05.png', alt='Texto que describa la imagen')
 
       .row(titulo="Análisis de rendimiento en tiempo real")
-        .col-md-6.mb-4.mb-md-0
+        .col-lg-6.order-lg-1.order-2
           p Las empresas pueden medir la efectividad de los equipos de ventas en tiempo real a través de los informes y #[i dashboards] proporcionados por el CRM. Los gerentes pueden rastrear métricas clave, como la duración del ciclo de ventas, la tasa de cierre, y las ventas por representante, lo que facilita la toma de decisiones basada en datos para mejorar la eficiencia.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema2/img-06.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+          img(src='@/assets/curso/temas/tema2/img-06.png', alt='Texto que describa la imagen')
 
     Separador
 
@@ -115,36 +111,32 @@
       .p-4.p-lg-5
         SlyderA(tipo="b")
           .row
-            .col-lg-7.mb-4.mb-lg-0
+            .col-lg-7.order-lg-1.order-2
               p #[b Segmentación de oportunidades]
               p.mb-0 El CRM permite segmentar a los clientes potenciales en diferentes categorías según criterios como industria, tamaño de la empresa, nivel de interés o etapa del ciclo de compra. Esto permite a los equipos de ventas enfocar sus esfuerzos en los prospectos con mayor probabilidad de convertirse en ventas.
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema2/img-07.png', style="width: 450px" ,alt='').m-auto
+            .col-lg-5.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema2/img-07.png', style="width: 450px" ,alt='').m-auto
           
           .row
-            .col-lg-7.mb-4.mb-lg-0
+            .col-lg-7.order-lg-1.order-2
               p #[b Gestión de cuentas clave]
               p.mb-0 Los sistemas CRM facilitan la gestión de cuentas clave mediante la centralización de toda la información relevante de la cuenta en un solo lugar. Esto incluye contactos, historial de interacciones, ventas previas y documentos contractuales. Esta visibilidad completa ayuda a los equipos de ventas a mantener relaciones más sólidas con los clientes clave y a identificar oportunidades de expansión dentro de la misma cuenta, como ventas cruzadas o incrementales.
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema2/img-08.png', style="width: 450px" ,alt='').m-auto
+            .col-lg-5.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema2/img-08.png', style="width: 450px" ,alt='').m-auto
           
           .row
-            .col-lg-7.mb-4.mb-lg-0
+            .col-lg-7.order-lg-1.order-2
               p #[b Seguimiento de oportunidades de venta]
               p.mb-0 El CRM proporciona herramientas que permiten realizar un seguimiento de las oportunidades de venta en cada etapa del proceso. Los vendedores pueden ver qué acciones son necesarias en cada momento, como realizar una llamada de seguimiento, enviar una propuesta o programar una reunión, asegurando que ninguna oportunidad quede sin atender.
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema2/img-09.png', style="width: 450px" ,alt='').m-auto 
+            .col-lg-5.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema2/img-09.png', style="width: 450px" ,alt='').m-auto 
           
           .row
-            .col-lg-7.mb-4.mb-lg-0
+            .col-lg-7.order-lg-1.order-2
               p #[b Personalización de las ofertas]
               p.mb-0 El CRM también permite personalizar las ofertas y propuestas para cada cliente potencial. Al tener acceso a toda la información relevante sobre el cliente, los equipos de ventas pueden adaptar sus mensajes y propuestas para que se ajusten a las necesidades específicas del cliente, lo que aumenta la probabilidad de cerrar la venta.
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema2/img-010.png', style="width: 450px" ,alt='').m-auto 
+            .col-lg-5.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema2/img-010.png', style="width: 450px" ,alt='').m-auto 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down-right") 
       .bloque-texto-g__img(
@@ -166,15 +158,6 @@
     .tarjeta.tarjeta--gris1.p-5.mb-5(data-aos="zoom-in") 
       .tarjeta.tarjeta--blanca.p-4
         PasosB.color-acento-botones
-          .row.justify-content-center.align-items-center(titulo="Mito 1")
-            .col-lg-6.order-lg-1.order-2
-              h6.mb-4 Solución
-              p.mb-0 La empresa implementó un sistema CRM que centralizó toda la información de sus clientes y distribuidores en una única plataforma accesible para los equipos de ventas en todo el país. Esto permitió a la empresa automatizar gran parte del proceso de ventas, como el seguimiento de pedidos, la gestión de cuentas y la personalización de las ofertas para cada distribuidor. El CRM también facilitó la creación de informes en tiempo real sobre el rendimiento de ventas, lo que permitió a los gerentes tomar decisiones más informadas y ajustar sus estrategias de ventas de manera más efectiva.
-
-            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              figure
-                img(src='@/assets/curso/temas/tema2/img-012.png', alt='Imagen decorativa')
-
           .row.justify-content-center.align-items-center(titulo="Mito 2")
             .col-lg-6.order-lg-1.order-2
               h6.mb-4 Desafíos iniciales 
@@ -183,6 +166,15 @@
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema2/img-013.png', alt='Imagen decorativa')
+
+          .row.justify-content-center.align-items-center(titulo="Mito 1")
+            .col-lg-6.order-lg-1.order-2
+              h6.mb-4 Solución
+              p.mb-0 La empresa implementó un sistema CRM que centralizó toda la información de sus clientes y distribuidores en una única plataforma accesible para los equipos de ventas en todo el país. Esto permitió a la empresa automatizar gran parte del proceso de ventas, como el seguimiento de pedidos, la gestión de cuentas y la personalización de las ofertas para cada distribuidor. El CRM también facilitó la creación de informes en tiempo real sobre el rendimiento de ventas, lo que permitió a los gerentes tomar decisiones más informadas y ajustar sus estrategias de ventas de manera más efectiva.
+
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema2/img-012.png', alt='Imagen decorativa')
 
           .row.justify-content-center.align-items-center(titulo="Mito 3")
             .col-lg-6.order-lg-1.order-2

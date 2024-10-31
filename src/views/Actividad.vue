@@ -23,22 +23,22 @@ export default {
           id: 1,
           texto:
             'El CRM se utiliza únicamente en el área de ventas para optimizar los procesos comerciales.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen1.jpg'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: true },
             { id: 'b', texto: 'Verdadero', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. El CRM no solo se utiliza en el área de ventas, sino también en marketing, atención al cliente y otras áreas para gestionar y mejorar las relaciones con los clientes.',
+            'Correcto. El CRM no solo se utiliza en el área de ventas, sino también en <em>marketing,</em> atención al cliente y otras áreas para gestionar y mejorar las relaciones con los clientes.',
           mensaje_incorrecto:
-            'Incorrecto. El CRM es una herramienta integral que se aplica en ventas, marketing y servicio al cliente para optimizar todos los puntos de contacto con los clientes.',
+            'Incorrecto. El CRM es una herramienta integral que se aplica en ventas, <em>marketing</em> y servicio al cliente para optimizar todos los puntos de contacto con los clientes.',
         },
         {
           id: 2,
           texto:
             'Uno de los beneficios principales del CRM es la automatización de tareas rutinarias en los procesos de ventas y atención al cliente.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen2.jpg'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: false },
@@ -53,7 +53,7 @@ export default {
           id: 3,
           texto:
             'La implementación de un CRM no requiere una planificación estratégica ni un análisis previo de necesidades.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen3.jpg'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: true },
@@ -68,7 +68,7 @@ export default {
           id: 4,
           texto:
             'El CRM permite a las empresas gestionar de manera más eficiente sus oportunidades de ventas y cuentas clave.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen1.jpg'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: false },
@@ -83,7 +83,7 @@ export default {
           id: 5,
           texto:
             'Una vez implementado el CRM, no es necesario realizar evaluaciones del impacto en la organización.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.jpg'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: true },
@@ -98,7 +98,7 @@ export default {
           id: 6,
           texto:
             'El CRM ayuda a mejorar la experiencia del cliente a través de un servicio al cliente más personalizado y eficiente.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen3.jpg'),
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Falso', esCorrecta: false },

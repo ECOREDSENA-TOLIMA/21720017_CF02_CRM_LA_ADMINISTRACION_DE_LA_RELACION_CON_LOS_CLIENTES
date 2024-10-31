@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'CRM en las ventas y en el servicio al cliente',
     descripcionCurso:
-      'Este componente formativo, titulado “CRM en las ventas y en el servicio al cliente”, se centra en la comprensión y aplicación de los sistemas de gestión de relaciones con los clientes (CRM) en los procesos comerciales. A través del análisis de casos prácticos y la revisión de estrategias de ventas y servicio al cliente se exploran aspectos clave como la automatización de las ventas, el impacto del CRM en la productividad de los equipos comerciales, el marketing relacional y la atención al cliente. ',
+      'Este componente formativo, titulado “CRM en las ventas y en el servicio al cliente”, se centra en la comprensión y aplicación de los sistemas de gestión de relaciones con los clientes (CRM) en los procesos comerciales. A través del análisis de casos prácticos y la revisión de estrategias de ventas y servicio al cliente se exploran aspectos clave como la automatización de las ventas, el impacto del CRM en la productividad de los equipos comerciales, el <em>marketing</em> relacional y la atención al cliente.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -258,14 +258,14 @@ export default {
         'uso de herramientas y técnicas para automatizar tareas de <em>marketing,</em> como el envío de correos electrónicos, la programación de publicaciones en redes sociales y la creación de campañas personalizadas, basadas en los datos del CRM.',
     },
     {
-      termino: 'Customer service automation',
+      termino: '<em>Customer service automation</em>',
       significado:
         'implementación de tecnología para automatizar las interacciones con los clientes, como respuestas automáticas a preguntas frecuentes, chatbots y sistemas de autoayuda, con el objetivo de mejorar la eficiencia y la satisfacción del cliente.',
     },
     {
       termino: 'CRM <em>(Customer Relationship Management)</em>',
       significado:
-        'un sistema de software diseñado para gestionar la interacción de una empresa con sus clientes y prospectos. Permite almacenar información sobre clientes, seguir sus interacciones, gestionar ventas y automatizar procesos de <em>marketing.</em>',
+        'un sistema de <em>software</em> diseñado para gestionar la interacción de una empresa con sus clientes y prospectos. Permite almacenar información sobre clientes, seguir sus interacciones, gestionar ventas y automatizar procesos de <em>marketing.</em>',
     },
     {
       termino: 'Base de datos de Clientes',
@@ -280,12 +280,12 @@ export default {
     {
       termino: 'Gestión de casos',
       significado:
-        'proceso de seguimiento y resolución de problemas o consultas de los clientes. Incluye la creación de tickets o casos, su asignación a los agentes adecuados y la monitorización de su resolución.',
+        'proceso de seguimiento y resolución de problemas o consultas de los clientes. Incluye la creación de <em>tickets</em> o casos, su asignación a los agentes adecuados y la monitorización de su resolución.',
     },
     {
-      termino: 'Lead',
+      termino: '<em>Lead</em>',
       significado:
-        'un prospecto o posible cliente que ha mostrado interés en los productos o servicios de la empresa. Los leads se pueden convertir en clientes mediante el seguimiento y la gestión adecuados.',
+        'un prospecto o posible cliente que ha mostrado interés en los productos o servicios de la empresa. Los <em>leads</em> se pueden convertir en clientes mediante el seguimiento y la gestión adecuados.',
     },
     {
       termino: 'Segmentación de clientes',
@@ -295,7 +295,7 @@ export default {
     {
       termino: 'Tasa de conversión',
       significado:
-        'métrica que indica el porcentaje de leads o prospectos que se convierten en clientes reales. Un CRM efectivo puede ayudar a aumentar la tasa de conversión al proporcionar datos y análisis que faciliten la toma de decisiones.',
+        'métrica que indica el porcentaje de <em>leads</em> o prospectos que se convierten en clientes reales. Un CRM efectivo puede ayudar a aumentar la tasa de conversión al proporcionar datos y análisis que faciliten la toma de decisiones.',
     },
   ],
   referencias: [

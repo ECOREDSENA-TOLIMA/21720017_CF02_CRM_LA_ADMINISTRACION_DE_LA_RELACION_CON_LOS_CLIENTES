@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema1/img-01.svg', alt='Imagen decorativa')
 
       .col-lg-6.col-12.mb-3(data-aos="fade-right")
-        p La gestión de la relación con el cliente (CRM, por sus siglas en inglés) ha revolucionado la forma en que las empresas gestionan sus interacciones con los clientes. En el contexto actual, donde la competencia es feroz y los consumidores demandan experiencias más personalizadas, el CRM se ha convertido en una herramienta esencial para las organizaciones. Este primer tema explora el entorno en el que opera el CRM, sus beneficios en la optimización de procesos y gestión de clientes, así como sus ventajas competitivas frente a otras estrategias. También se incluye una revisión de ejemplos prácticos en el mercado colombiano, donde las empresas han logrado implementar CRM con éxito.
+        p.mb-0 La gestión de la relación con el cliente (CRM, por sus siglas en inglés) ha revolucionado la forma en que las empresas gestionan sus interacciones con los clientes. En el contexto actual, donde la competencia es feroz y los consumidores demandan experiencias más personalizadas, el CRM se ha convertido en una herramienta esencial para las organizaciones. Este primer tema explora el entorno en el que opera el CRM, sus beneficios en la optimización de procesos y gestión de clientes, así como sus ventajas competitivas frente a otras estrategias. También se incluye una revisión de ejemplos prácticos en el mercado colombiano, donde las empresas han logrado implementar CRM con éxito.
 
     Separador
 
@@ -32,7 +32,7 @@
           img.d-block.d-lg-none(src='@/assets/curso/temas/tema1/img-02-02.svg', alt='La imagen presenta los 5 componentes clave de una CRM moderno: Digitalización Expectativas del cliente Gestión de datos Personalización Competitividad')
 
     .row.fondo2-t2.justify-content-center.align-items-center.py-3.px-lg-5.px-4(data-aos="zoom-in") 
-      .col-lg-4.mb-3(data-aos="fade-right")
+      .col-8.mb-3(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema1/img-03.svg', alt='')
       .col-lg-8.mb-3(data-aos="fade-left")
         p El CRM en las empresas modernas funciona dentro de un entorno digitalizado y globalizado. Los clientes ahora esperan interacciones rápidas y eficientes, independientemente del canal que utilicen, ya sea en línea, en redes sociales o en puntos de venta físicos. Esto ha llevado a que las empresas busquen herramientas que no solo automaticen procesos internos, sino que también les permitan personalizar cada interacción con el cliente, generando valor agregado y diferenciación en un mercado altamente competitivo.
@@ -93,14 +93,6 @@
           p #[b Ejemplo en el mercado colombiano]
           p Las empresas de telecomunicaciones en Colombia ha implementado un CRM para optimizar su servicio de atención al cliente en sus múltiples canales de comunicación, como centros de llamadas, redes sociales y su aplicación móvil. Al integrar toda la información del cliente en un solo sistema, estas empresas han logrado mejorar los tiempos de respuesta y aumentar la satisfacción del cliente. Esto ha resultado en una mayor retención de usuarios y una mejor percepción de la marca en el país. ¿Siente que ha hablado con un chatbot en alguna de las empresa de telecomunicación, qué siente al respecto?
 
-    .row.justify-content-center.mb-0
-      .col-12.col-md-10.col-lg-10(data-aos="zoom-in") 
-        .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Mejora continua en estrategias de CRM</i>
-        figure.mb-5
-          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema1/img-03-01.svg', alt='La imagen hace referencia a un cliclo de mejora continua de una estrategia CRM que inicia en la personalización de la experiencia del cliente buscando mejora continua para predecir e implementar apoyos que requiera la empresa con tal de diferenciarse en el mercado.')
-          img.d-block.d-lg-none(src='@/assets/curso/temas/tema1/img-03-02.svg', alt='La imagen hace referencia a un cliclo de mejora continua de una estrategia CRM que inicia en la personalización de la experiencia del cliente buscando mejora continua para predecir e implementar apoyos que requiera la empresa con tal de diferenciarse en el mercado.')
-
     Separador
 
     .titulo-segundo.color-acento-contenido
@@ -120,6 +112,14 @@
         .bloque-texto-b.color-primario.py-4
           .bloque-texto-b__texto
             p.mb-0 En el sector de <em>retail,</em> los almacenes de cadena y grandes superficies han utilizado CRM para mejorar la personalización de sus ofertas y promociones. A través de la segmentación basada en el historial de compras y preferencias de los clientes, esto ha logrado incrementar la tasa de conversión de sus campañas de <em>marketing</em> y mejorar la experiencia de compra, tanto en sus tiendas físicas como en su plataforma de comercio electrónico. Esta capacidad de personalización le ha permitido diferenciarse de la competencia y fortalecer su posicionamiento en el mercado colombiano.
+
+    .row.justify-content-center.mb-0
+      .col-12.col-md-10.col-lg-10(data-aos="zoom-in") 
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Mejora continua en estrategias de CRM</i>
+        figure.mb-5
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema1/img-03-01.svg', alt='La imagen hace referencia a un cliclo de mejora continua de una estrategia CRM que inicia en la personalización de la experiencia del cliente buscando mejora continua para predecir e implementar apoyos que requiera la empresa con tal de diferenciarse en el mercado.')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema1/img-03-02.svg', alt='La imagen hace referencia a un cliclo de mejora continua de una estrategia CRM que inicia en la personalización de la experiencia del cliente buscando mejora continua para predecir e implementar apoyos que requiera la empresa con tal de diferenciarse en el mercado.')
 
     Separador
     

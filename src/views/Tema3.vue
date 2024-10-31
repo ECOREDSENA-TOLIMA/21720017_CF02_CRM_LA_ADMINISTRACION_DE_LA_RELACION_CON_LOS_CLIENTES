@@ -82,46 +82,43 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido
-      h2#t_3_3 3.3. Automatización del <em>marketing</em> relacional con el CRM
-
-    p(data-aos="fade-down-right") Una de las principales ventajas del CRM en el #[i marketing] relacional es su capacidad para automatizar muchas de las tareas relacionadas con la gestión de relaciones con los clientes. La automatización permite a las empresas ejecutar campañas personalizadas de manera eficiente, ahorrando tiempo y recursos, y asegurando que cada cliente reciba la atención adecuada en el momento adecuado.
-    p.mb-5(data-aos="fade-left") Algunas de las formas en que el CRM automatiza el #[i marketing] relacional incluyen:
+    .row.fondo2-t2.justify-content-center.align-items-center.py-3.px-lg-5.px-4(data-aos="zoom-in") 
+      .titulo-segundo.color-acento-contenido
+        h2#t_3_3 3.3. Automatización del <em>marketing</em> relacional con el CRM
+    
+      p(data-aos="fade-down-right") Una de las principales ventajas del CRM en el #[i marketing] relacional es su capacidad para automatizar muchas de las tareas relacionadas con la gestión de relaciones con los clientes. La automatización permite a las empresas ejecutar campañas personalizadas de manera eficiente, ahorrando tiempo y recursos, y asegurando que cada cliente reciba la atención adecuada en el momento adecuado.
+      p.mb-5(data-aos="fade-left") Algunas de las formas en que el CRM automatiza el #[i marketing] relacional incluyen:
 
     .tarjeta.tarjeta--azul.mb-5(data-aos="fade-left")
       .p-4.p-lg-5
         SlyderA(tipo="b")
           .row
-            .col-lg-7.mb-4.mb-lg-0
+            .col-lg-7.order-lg-1.order-2
               p #[b Automatización de correos electrónicos y campañas de #[i marketing]]
               p.mb-0 El CRM permite programar el envío de correos electrónicos personalizados según el comportamiento del cliente, como el abandono de carrito de compras, la renovación de suscripción o el cumpleaños del cliente. Esto garantiza que los clientes reciban mensajes relevantes sin que los equipos de #[i marketing] tengan que intervenir manualmente.
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema3/img-07.png', style="width: 450px" ,alt='').m-auto
+            .col-lg-5.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema3/img-07.png', style="width: 450px" ,alt='').m-auto
           
           .row
-            .col-lg-7.mb-4.mb-lg-0
+            .col-lg-7.order-lg-1.order-2
               p #[b Automatización de promociones y ofertas personalizadas]
               p.mb-0 A través del CRM, las empresas pueden automatizar la entrega de promociones personalizadas basadas en el historial de compras del cliente, sus intereses o su ubicación geográfica. Esto no solo aumenta la efectividad de las promociones, sino que también refuerza el vínculo entre la empresa y el cliente.
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema3/img-08.png', style="width: 450px" ,alt='').m-auto
+            .col-lg-5.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema3/img-08.png', style="width: 450px" ,alt='').m-auto
           
           .row
-            .col-lg-7.mb-4.mb-lg-0
+            .col-lg-7.order-lg-1.order-2
               p #[b Seguimiento de interacciones y retroalimentación]
               p.mb-0 El CRM permite un seguimiento automático de todas las interacciones con los clientes, desde el momento en que se ponen en contacto con la empresa hasta después de la compra. Este seguimiento automatizado garantiza que los clientes reciban respuestas rápidas y coherentes en cada punto de contacto.
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema3/img-09.png', style="width: 450px" ,alt='').m-auto 
+            .col-lg-5.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema3/img-09.png', style="width: 450px" ,alt='').m-auto 
           
           .row
-            .col-lg-7.mb-4.mb-lg-0
+            .col-lg-7.order-lg-1.order-2
               p #[b Medición y análisis de resultados]
               p.mb-0 El CRM automatiza la generación de informes y #[i dashboards] que permiten a los equipos de #[i marketing] evaluar el éxito de sus campañas de #[i marketing] relacional en tiempo real. Esto facilita el ajuste rápido de las estrategias para optimizar los resultados.
-            .col-lg-5
-              figure
-                img(src='@/assets/curso/temas/tema3/img-010.png', style="width: 450px" ,alt='').m-auto 
+            .col-lg-5.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+              img(src='@/assets/curso/temas/tema3/img-010.png', style="width: 450px" ,alt='').m-auto 
 
     .row.justify-content-center.align-items-center
       .col-lg-4.col-12.mb-3.d-lg-flex.d-none(data-aos="fade-left")
