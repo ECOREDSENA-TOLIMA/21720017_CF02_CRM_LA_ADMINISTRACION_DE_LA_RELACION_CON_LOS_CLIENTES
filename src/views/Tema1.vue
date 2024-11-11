@@ -32,9 +32,9 @@
           img.d-block.d-lg-none(src='@/assets/curso/temas/tema1/img-02-02.svg', alt='La imagen presenta los 5 componentes clave de una CRM moderno: Digitalización Expectativas del cliente Gestión de datos Personalización Competitividad')
 
     .row.fondo2-t2.justify-content-center.align-items-center.py-3.px-lg-5.px-4(data-aos="zoom-in") 
-      .col-8.mb-3(data-aos="fade-right")
+      .col-lg-4.col-8.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema1/img-03.svg', alt='')
-      .col-lg-8.mb-3(data-aos="fade-left")
+      .col-lg-8.col-12.mb-4(data-aos="fade-left")
         p El CRM en las empresas modernas funciona dentro de un entorno digitalizado y globalizado. Los clientes ahora esperan interacciones rápidas y eficientes, independientemente del canal que utilicen, ya sea en línea, en redes sociales o en puntos de venta físicos. Esto ha llevado a que las empresas busquen herramientas que no solo automaticen procesos internos, sino que también les permitan personalizar cada interacción con el cliente, generando valor agregado y diferenciación en un mercado altamente competitivo.
         p Además, el entorno digital ha facilitado que los clientes tengan un acceso casi ilimitado a la información. Esto ha cambiado la dinámica de poder entre las empresas y los consumidores, empoderando a los clientes a tomar decisiones más informadas. En respuesta, las empresas han implementado sistemas CRM para recopilar, almacenar y analizar grandes volúmenes de datos sobre los clientes, lo que les permite anticiparse a sus necesidades, mejorar la satisfacción del cliente y construir relaciones más sólidas a largo plazo.
 
