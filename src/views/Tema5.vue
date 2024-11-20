@@ -144,7 +144,7 @@
             img.img-t.m-auto(src='@/assets/curso/temas/tema5/img-07.png', alt='Texto que describa la imagen')
 
           .col-lg-7
-            p.mb-0 El CRM debe contribuir a mejorar la productividad de los equipos de ventas, #[i marketing] y servicio al cliente. Es importante evaluar si el CRM ha facilitado la automatización de tareas, ha mejorado la colaboración entre equipos y ha permitido una toma de decisiones más informada gracias al análisis de datos. Si se detectan áreas donde el CRM no está cumpliendo con las expectativas, es posible realizar ajustes en los procesos o en la forma en que se está utilizando la herramienta.
+            p.mb-0 El CRM debe contribuir a mejorar la productividad de los equipos de ventas, #[i marketing] y servicio al cliente. Es importante evaluar si el CRM ha facilitado la automatización de tareas, ha mejorado la colaboración entre equipos y ha permitido una toma de decisiones más informadas gracias al análisis de datos. Si se detectan áreas donde el CRM no está cumpliendo con las expectativas, es posible realizar ajustes en los procesos o en la forma en que se está utilizando la herramienta.
 
       .p-4(titulo="<em>Feedback</em> de los empleados")
         .row.justify-content-center

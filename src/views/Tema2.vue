@@ -153,12 +153,12 @@
     .titulo-segundo.color-acento-contenido
       h2#t_2_4 2.4. Caso práctico: implementación del CRM en una empresa de ventas en Colombia
 
-    p.mb-5(data-aos="fade-down-right") Un caso práctico de implementación exitosa de CRM en el de la empresa líder del mercado de gaseosas y bebidas embotelladas del país. Enfrentando la necesidad de gestionar una vasta red de distribuidores y clientes a nivel nacional, la empresa decidió implementar un sistema CRM para optimizar sus procesos de ventas, mejorar la gestión de sus clientes y aumentar la eficiencia de su fuerza de ventas con la mejora sustantiva de logística personalizada. El ejemplo paso a paso es el siguiente:
+    p.mb-5(data-aos="fade-down-right") Un caso práctico de implementación exitosa de CRM en la empresa líder del mercado de gaseosas y bebidas embotelladas del país. Enfrentando la necesidad de gestionar una vasta red de distribuidores y clientes a nivel nacional, la empresa decidió implementar un sistema CRM para optimizar sus procesos de ventas, mejorar la gestión de sus clientes y aumentar la eficiencia de su fuerza de ventas con la mejora sustantiva de logística personalizada. El ejemplo paso a paso es el siguiente:
 
     .tarjeta.tarjeta--gris1.p-5.mb-5(data-aos="zoom-in") 
       .tarjeta.tarjeta--blanca.p-4
         PasosB.color-acento-botones
-          .row.justify-content-center.align-items-center(titulo="Mito 2")
+          .row.justify-content-center.align-items-center(titulo="Paso 1")
             .col-lg-6.order-lg-1.order-2
               h6.mb-4 Desafíos iniciales 
               p La empresa de gaseosas se encontraba con el desafío de gestionar una gran cantidad de clientes y distribuidores, cada uno con sus propias necesidades y expectativas. La falta de una plataforma centralizada dificultaba el seguimiento de las oportunidades de ventas y la personalización de las interacciones con los distribuidores. Además, los equipos de ventas se enfrentaban a la tarea manual de ingresar y actualizar datos de clientes, lo que afectaba la productividad y aumentaba el margen de error. 
@@ -167,7 +167,7 @@
               figure
                 img(src='@/assets/curso/temas/tema2/img-013.png', alt='Imagen decorativa')
 
-          .row.justify-content-center.align-items-center(titulo="Mito 1")
+          .row.justify-content-center.align-items-center(titulo="Paso 2")
             .col-lg-6.order-lg-1.order-2
               h6.mb-4 Solución
               p.mb-0 La empresa implementó un sistema CRM que centralizó toda la información de sus clientes y distribuidores en una única plataforma accesible para los equipos de ventas en todo el país. Esto permitió a la empresa automatizar gran parte del proceso de ventas, como el seguimiento de pedidos, la gestión de cuentas y la personalización de las ofertas para cada distribuidor. El CRM también facilitó la creación de informes en tiempo real sobre el rendimiento de ventas, lo que permitió a los gerentes tomar decisiones más informadas y ajustar sus estrategias de ventas de manera más efectiva.
@@ -176,7 +176,7 @@
               figure
                 img(src='@/assets/curso/temas/tema2/img-012.png', alt='Imagen decorativa')
 
-          .row.justify-content-center.align-items-center(titulo="Mito 3")
+          .row.justify-content-center.align-items-center(titulo="Paso 3")
             .col-lg-6.order-lg-1.order-2
               h6.mb-4 Resultados 
               p Después de la implementación del CRM, la empresa de gaseosas logró mejorar significativamente la productividad de su fuerza de ventas. Los equipos pudieron dedicar más tiempo a la prospección y cierre de ventas, ya que las tareas administrativas se habían reducido considerablemente. Además, la empresa vio un aumento en la satisfacción de sus clientes y distribuidores, gracias a la capacidad de ofrecer un servicio más personalizado y coherente. El CRM también permitió gestionar mejor sus cuentas clave, maximizando las oportunidades de ventas cruzadas e incrementales.

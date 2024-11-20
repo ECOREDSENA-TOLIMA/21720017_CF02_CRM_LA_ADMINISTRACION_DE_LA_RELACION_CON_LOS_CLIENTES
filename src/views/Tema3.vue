@@ -143,7 +143,7 @@
             img.img-t.m-auto(src='@/assets/curso/temas/tema3/img-012.png', alt='Texto que describa la imagen')
               
           .col-lg-7
-            p.mb-0 Los supermercados de cadena enfrentaban el desafío de gestionar una base de clientes grande y diversa, con diferentes preferencias y comportamientos de compra. Las empresas necesitaban una herramienta que le permitiera personalizar sus campañas de #[i marketing] y mejorar la relevancia de sus comunicaciones con los clientes.
+            p.mb-0 Los supermercados de cadena enfrentaban el desafío de gestionar una base de clientes grande y diversa, con diferentes preferencias y comportamientos de compra. Las empresas necesitaban una herramienta que les permitiera personalizar sus campañas de #[i marketing] y mejorar la relevancia de sus comunicaciones con los clientes.
 
       .p-4(titulo="Solución")
         .row.justify-content-center

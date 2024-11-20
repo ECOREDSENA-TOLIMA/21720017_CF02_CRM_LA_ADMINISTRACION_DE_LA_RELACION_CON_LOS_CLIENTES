@@ -46,7 +46,7 @@
         p.mb-0 #[b Ejemplo en el mercado colombiano]
           br
           br
-          | En Colombia, los bancos ha adaptado su entorno digital implementando un CRM que le permite ofrecer productos financieros personalizados a sus clientes. Mediante el análisis de datos de comportamiento y preferencias de los usuarios, la entidad bancaria ha desarrollado soluciones financieras ajustadas a las necesidades específicas de cada segmento de clientes, desde cuentas de ahorro hasta préstamos hipotecarios. Este uso del CRM ha mejorado la experiencia del cliente y ha permitido a varios bancos mantenerse a la vanguardia en un sector competitivo global.
+          | En Colombia, los bancos han adaptado su entorno digital implementando un CRM que les permite ofrecer productos financieros personalizados a sus clientes. Mediante el análisis de datos de comportamiento y preferencias de los usuarios, la entidad bancaria ha desarrollado soluciones financieras ajustadas a las necesidades específicas de cada segmento de clientes, desde cuentas de ahorro hasta préstamos hipotecarios. Este uso del CRM ha mejorado la experiencia del cliente y ha permitido a varios bancos mantenerse a la vanguardia en un sector competitivo global.
     
     Separador
 
@@ -91,7 +91,7 @@
 
         .col-lg-5.col-12.mb-3(data-aos="fade-right")
           p #[b Ejemplo en el mercado colombiano]
-          p Las empresas de telecomunicaciones en Colombia ha implementado un CRM para optimizar su servicio de atención al cliente en sus múltiples canales de comunicación, como centros de llamadas, redes sociales y su aplicación móvil. Al integrar toda la información del cliente en un solo sistema, estas empresas han logrado mejorar los tiempos de respuesta y aumentar la satisfacción del cliente. Esto ha resultado en una mayor retención de usuarios y una mejor percepción de la marca en el país. ¿Siente que ha hablado con un chatbot en alguna de las empresa de telecomunicación, qué siente al respecto?
+          p Las empresas de telecomunicaciones en Colombia ha implementado un CRM para optimizar su servicio de atención al cliente en sus múltiples canales de comunicación, como centros de llamadas, redes sociales y su aplicación móvil. Al integrar toda la información del cliente en un solo sistema, estas empresas han logrado mejorar los tiempos de respuesta y aumentar la satisfacción del cliente. Esto ha resultado en una mayor retención de usuarios y una mejor percepción de la marca en el país. ¿Siente que ha hablado con un chatbot en alguna de las empresas de telecomunicación, qué siente al respecto?
 
     Separador
 
@@ -203,7 +203,7 @@ export default {
         imagen: require('@/assets/curso/temas/tema1/img-010.png'),
       },
       {
-        titulo: 'Análisis predictivo y toma de decisiones basada en datos',
+        titulo: 'Análisis predictivo y toma de decisiones basadas en datos',
         texto:
           'El CRM permite a las empresas predecir tendencias y comportamientos de los clientes mediante el análisis de grandes volúmenes de datos. Esto proporciona información valiosa para la toma de decisiones estratégicas, lo que permite a las empresas adelantarse a las necesidades del mercado y ajustar sus estrategias comerciales para maximizar las oportunidades.',
         imagen: require('@/assets/curso/temas/tema1/img-011.png'),

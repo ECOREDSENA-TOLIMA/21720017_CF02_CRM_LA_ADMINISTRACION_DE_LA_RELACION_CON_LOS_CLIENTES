@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'CRM en las ventas y en el servicio al cliente',
     descripcionCurso:
-      'Este componente formativo, titulado “CRM en las ventas y en el servicio al cliente”, se centra en la comprensión y aplicación de los sistemas de gestión de relaciones con los clientes (CRM) en los procesos comerciales. A través del análisis de casos prácticos y la revisión de estrategias de ventas y servicio al cliente se exploran aspectos clave como la automatización de las ventas, el impacto del CRM en la productividad de los equipos comerciales, el <em>marketing</em> relacional y la atención al cliente.',
+      'Este componente formativo, titulado “CRM en las ventas y en el servicio al cliente”, se centra en la comprensión y aplicación de los sistemas de gestión de relaciones con los clientes (CRM) en los procesos comerciales. A través del análisis de casos prácticos y la revisión de estrategias de ventas y servicio al cliente, se exploran aspectos clave como la automatización de las ventas, el impacto del CRM en la productividad de los equipos comerciales, el <em>marketing</em> relacional y la atención al cliente.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -169,7 +169,8 @@ export default {
           },
           {
             numero: '5.2',
-            titulo: 'Selección de software y herramientas tecnológicas',
+            titulo:
+              'Selección de <em>software</em> y herramientas tecnológicas',
             hash: 't_5_2',
           },
           {
@@ -234,14 +235,14 @@ export default {
     {
       tema: '2. CRM y el área de ventas',
       referencia:
-        'KeepCoding - Tech School (2022). ¿Qué es un CRM y por qué necesitas uno?  https://www.youtube.com/watch?v=TpJ9cVYDZJg',
+        'KeepCoding - Tech School (2022). ¿Qué es un CRM y por qué necesitas uno?',
       tipo: 'Video en línea',
       link: 'https://www.youtube.com/watch?v=TpJ9cVYDZJg',
     },
     {
       tema: '3. CRM y el marketing Relacional',
       referencia:
-        'Alta Estrategia (2022). ¿Cómo funciona un CRM? | El ABC de las Ventas.  https://www.youtube.com/watch?v=x7cK9MHldsU',
+        'Alta Estrategia (2022). ¿Cómo funciona un CRM? | El ABC de las Ventas.',
       tipo: 'Video en línea',
       link: 'https://www.youtube.com/watch?v=x7cK9MHldsU',
     },
@@ -428,7 +429,7 @@ export default {
         },
         {
           nombre: 'Francisco José Vásquez Suárez',
-          cargo: 'Desarrollador full stack',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

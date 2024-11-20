@@ -30,9 +30,9 @@ export default {
             { id: 'b', texto: 'Verdadero', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. El CRM no solo se utiliza en el área de ventas, sino también en <em>marketing,</em> atención al cliente y otras áreas para gestionar y mejorar las relaciones con los clientes.',
+            'Correcto. El CRM no solo se utiliza en el área de ventas, sino también en marketing, atención al cliente y otras áreas para gestionar y mejorar las relaciones con los clientes.',
           mensaje_incorrecto:
-            'Incorrecto. El CRM es una herramienta integral que se aplica en ventas, <em>marketing</em> y servicio al cliente para optimizar todos los puntos de contacto con los clientes.',
+            'Incorrecto. El CRM es una herramienta integral que se aplica en ventas, marketing y servicio al cliente para optimizar todos los puntos de contacto con los clientes.',
         },
         {
           id: 2,
